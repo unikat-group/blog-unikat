@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * mihai service
+ * blog service
  */
 
 const { createCoreService } = require('@strapi/strapi').factories;
 
-module.exports = createCoreService('api::mihai.mihai');
+module.exports = createCoreService('api::blog.blog');

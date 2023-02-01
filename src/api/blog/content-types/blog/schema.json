@@ -33,8 +33,7 @@
         }
       },
       "type": "richtext",
-      "required": true,
-      "maxLength": 500
+      "required": true
     },
     "Seo": {
       "displayName": "Seo",
